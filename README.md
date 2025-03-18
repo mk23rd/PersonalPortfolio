@@ -18,7 +18,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/mk23rd/personalportfolio.git
    cd portfolio-website
 
 ```bash
