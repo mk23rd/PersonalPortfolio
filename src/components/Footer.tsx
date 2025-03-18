@@ -6,9 +6,9 @@ const Footer = () => {
   
   const socialLinks = [
     { name: "GitHub", icon: <GithubIcon size={18} />, url: "https://github.com/mk23rd" },
-    { name: "LinkedIn", icon: <LinkedinIcon size={18} />, url: "#" },
-    { name: "Twitter", icon: <TwitterIcon size={18} />, url: "#" },
-    { name: "Instagram", icon: <InstagramIcon size={18} />, url: "#" }
+    { name: "LinkedIn", icon: <LinkedinIcon size={18} />, url: "www.linkedin.com/in/michael-wagaye-3362272b0" },
+    { name: "Twitter", icon: <TwitterIcon size={18} />, url: "https://x.com/mk_23rd?s=11" },
+    { name: "Instagram", icon: <InstagramIcon size={18} />, url: "https://www.instagram.com/mk_23rd?igsh=d3dsczQ0aGV0M2d2&utm_source=qr" }
   ];
 
   return (
